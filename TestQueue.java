@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class TestQueue {
 	public static void main(String[] args) {
-		
 		// TODO Auto-generated method stub
 		Queue fruitQueue = new Queue(100);
 		Queue tempQueue1= new Queue(100); // Temp queues for keeping 5 fruit to  first and secon queue.
