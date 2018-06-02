@@ -1,10 +1,12 @@
 ABOUT
 
-1-Linked List Implementation
+1-Extendible Hash Table
 
-2-Queue Implementation
+2-Linked List Implementation
 
-3-Real Estate 
+3-Queue Implementation
 
-4-Stack Implemantation
+4-Real Estate 
+
+5-Stack Implemantation
 
